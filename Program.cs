@@ -6,6 +6,7 @@ class Program
     {
         //display statment (Hello)
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("welcome!");
 
     }
 }
